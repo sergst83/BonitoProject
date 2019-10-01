@@ -1,2 +1,2 @@
 # BonitoProject
-Просто импортировать этот проект в Bonito Studio и можно запускать
+Просто импортировать FullProcess-1.0.bos в Bonito Studio и можно запускать
